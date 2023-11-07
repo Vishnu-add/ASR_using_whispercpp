@@ -1,0 +1,11 @@
+librosa
+soundfile
+gradio
+soundfile
+tempfile
+shutil
+os
+librosa
+time
+numpy
+subprocess 
