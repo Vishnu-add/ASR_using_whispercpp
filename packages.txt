@@ -1,0 +1,4 @@
+sudo
+wine
+libwine
+wine64
